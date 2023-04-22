@@ -4,7 +4,7 @@ function App() {
  
   return (
     <div className="App">
-      <h1>Uvod u git</h1>
+      <h1>Uvod u git -2</h1>
       <p>Praćenje promjena u repozitoriju</p>
     </div>
   )
